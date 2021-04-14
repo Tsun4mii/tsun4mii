@@ -11,6 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=node.js)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=microsoft-sql-server&logoColor=e40017)
+![Salesforce](https://img.shields.io/badge/-Salesforce-090909?style=for-the-badge&logo=salesforce)
 
 ### You can contact me
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&)](https://vk.com/tsun4mi)
