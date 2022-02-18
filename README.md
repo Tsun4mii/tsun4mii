@@ -1,6 +1,5 @@
 ## Hello, I`m Yuri aka Tsunami👋
 
-- 👏 I’m currently looking for work
 - 😎 I’m currently learning everything
 
 ### Languages and tools that I know and actively study 💻
